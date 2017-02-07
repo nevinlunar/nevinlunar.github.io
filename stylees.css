@@ -1,0 +1,21 @@
+#edit{
+	background-image: url(resources/images/nevin.jpg);
+	background-size: cover;
+}
+.font{
+	color: rgba(200, 90, 130, .6);
+}
+.page-header{
+	font-family: barbarian;
+	color: rgba(180, 20, 90, .8);
+}
+#auto{
+	background-color: rgba(180, 100, 50, .6);
+}
+#page{
+	background-color: rgba(180, 100, 100, .4);
+
+}
+#color{
+	background-image: url(resources/images/nevin.jpg)
+}

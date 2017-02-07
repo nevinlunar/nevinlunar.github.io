@@ -1,0 +1,24 @@
+body{
+	background-image: url(resources/images/alph.jpg);
+	background-size: cover;
+}
+#centS{
+	text-align: center;
+	padding-top: 150px;
+}
+.head{
+	font-size: 80px;
+	color: #FFFFFF;
+}
+.hed{
+	font-size: 20px;
+	color: white;
+}
+#nev{
+	color: white;
+	font-family: barbarian;
+}
+.head{
+	color: rgba(240, 130, 150, .7);
+	font-family: barbarian;
+}

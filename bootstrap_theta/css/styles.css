@@ -1,0 +1,17 @@
+body{
+	background-image:url(images/nev.jpg);
+	background-size: cover;
+}
+.row{
+	background-color: rgba(255, 99, 255, .8);
+}
+.row{
+	border-color: #ffd3cc;
+	border-width: 2px;
+	border-style: solid;
+
+}
+.blue{
+	background-color: rgba(99, 255, 50, .6);
+	border: 1px solid #000000;
+}
