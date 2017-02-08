@@ -13,6 +13,7 @@
 	background-size: cover;
 }
 h1{
+	font-size: 14px;
 	font-family: barbarian;
 	color: rgba(000, 000, 000, .8);
 }
@@ -20,7 +21,11 @@ h2{
 	font-family: barbarian;
 	color: rgba(0, 0, 0, .8);
 }
-p{
+.back{
 	font-family: barbarian;
-	color: white;
+	color: rgba(010, 100, 020, .8);
+}
+#font{
+	font-size: 50px;
+	font-family: barbarian;
 }
