@@ -1,6 +1,7 @@
-#edit{
+.top{
 	background-image: url(resources/images/nevin.jpg);
 	background-size: cover;
+	min-height: 100vh;
 }
 .font{
 	color: rgba(200, 90, 130, .6);
@@ -19,3 +20,10 @@
 #color{
 	background-image: url(resources/images/nevin.jpg)
 }
+.container
+	background-image: url(resources/images/ivy.jpg);
+	background-size: cover;
+}
+/*.top {
+	back
+}*/

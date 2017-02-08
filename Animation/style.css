@@ -5,3 +5,10 @@
 #color{
 	background-color: rgba(100, 160, 220, .4);
 }
+.title{
+	color: rgba(100, 160, 220, .4);
+}
+.back{
+	background-image: url(data1/images/thing.jpg);
+	background-size: cover;
+}

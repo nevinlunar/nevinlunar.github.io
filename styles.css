@@ -1,5 +1,5 @@
 body{
-	background-image: url(resources/images/alph.jpg);
+	background-image:url("resources/images/alph.jpg"); 
 	background-size: cover;
 }
 #centS{
@@ -22,3 +22,4 @@ body{
 	color: rgba(240, 130, 150, .7);
 	font-family: barbarian;
 }
+
