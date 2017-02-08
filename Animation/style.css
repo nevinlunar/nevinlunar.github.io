@@ -3,7 +3,7 @@
 }
 
 #color{
-	background-color: rgba(100, 160, 220, .4);
+	background-color: rgba(200, 160, 220, .4);
 }
 .title{
 	color: rgba(100, 160, 220, .4);
@@ -11,4 +11,16 @@
 .back{
 	background-image: url(data1/images/thing.jpg);
 	background-size: cover;
+}
+h1{
+	font-family: barbarian;
+	color: rgba(000, 000, 000, .8);
+}
+h2{
+	font-family: barbarian;
+	color: rgba(0, 0, 0, .8);
+}
+p{
+	font-family: barbarian;
+	color: white;
 }
