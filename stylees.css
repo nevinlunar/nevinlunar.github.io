@@ -20,6 +20,25 @@
 #color{
 	background-image: url(resources/images/nevin.jpg)
 }
+#up{
+	background: url(resources/images/signup.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: rgb(79, 135, 137);
+
+}
+#edit{
+	background-image: url(resources/images/nevin.jpg);
+}
+#we{
+	background: url(resources/images/Capture.PNG);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: rgba(107, 203, 211, .6);
+}
+}
 
 /*.top {
 	back

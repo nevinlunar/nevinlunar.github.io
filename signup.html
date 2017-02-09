@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Gallery</title>
+  <link rel="stylesheet" type="text/css" href="bootstrap_theta/css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="stylees.css">
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      
+      <a class="navbar-brand" href="#">NEVYN</a>
+    </div>
+
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+        </button>
+
+    <div class="collapse navbar-collapse navbar-responsive-collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li> 
+        <li><a href="likes.html">Likes</a></li>
+        <li><a href="Animation/galleria.html">Galleria</a></li>
+         
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>s
+
+<div class="container">
+    <div class="jumbotron" id="up">
+      <h1>Register</h1>
+        <form action="/to-url" method="GET" >
+        <label> First Name:
+          <input type="text" name="Name" id="first"placeholder="First Name"required>
+
+        </label>
+        <label> Last Name:
+          <input for="pass" name="Name" id="last"placeholder="Last Name"required>
+
+          </label> <br/>
+
+        <label>Male:
+          <input type="radio" name="Gender" placeholder="Male"checked>
+        </label>
+        <label>Female:
+          <input type="radio" name="Gender" placeholder="Female"checked>
+        </label>
+        <label>Other:
+          <input type="radio" name="Gender" placeholder="Other"checked
+        </label>
+        <br>
+
+        <label> EMAIL: <input type="text" name="email" placeholder="Your Email"
+        <label> PASSWORD: <input type="password" name="password" 
+        placeholder="Password" id="pass"
+        </label>
+        <br>
+
+        <div>
+      BIRTHDAY:
+      <select>
+        <option>Month</option>
+        <option>Jan</option>
+        <option>Feb</option>
+      </select> 
+      <select>
+        <option>Day</option>
+        <option>10</option>
+        <option>11</option>
+        <option>12</option>
+      </select>
+      <select>
+        <option>Year</option>
+        <option>2000</option>
+        <option>2010</option>
+      </select>
+    </div>
+
+    <label>I agree to terms and conditions: <input type="checkbox"></label>   
+      
+    </label><br>
+    <label> SUBMIT: <input type="Button"></label>
+    
+  </form>
+    </div>
+  </div>
+
+  <!--Js Bootstrap-->
+  <script type="text/javascript" src="bootstrap_theta/js/jquery.js"></script>
+  <!--Js Bootstrap-->
+  <script type="text/javascript" src="bootstrap_theta/js/bootstrap.js"></script>
+</body>
+</html>
